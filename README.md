@@ -27,11 +27,11 @@ Este projeto permite ao usuário criar uma senha aleatória com escolha de tipo 
 
 1. Clone este repositório:
    ```bash
-   git clone URL_DO_REPOSITORIO
+   git clone https://github.com/ryanprado2109-alt/Gerador-de-senhas-Python.git
    ```
 2. Entre na pasta do projeto:
    ```bash
-   cd NOME_DA_PASTA
+   cd gerador de senha python
    ```
 3. Execute o programa:
    ```bash
