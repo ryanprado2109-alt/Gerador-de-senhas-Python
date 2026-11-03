@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o projeto
 
-[Explique brevemente o objetivo do projeto e o que ele faz.]
+Este projeto permite ao usuário criar uma senha aleatória com escolha de tipo de caracteres e tamanho da senha
 
 ## ⚙️ Funcionalidades
 
@@ -40,7 +40,10 @@
 
 ## 📷 Demonstração
 
-[Adicione aqui uma captura de tela ou GIF do programa funcionando.]
+<img width="712" height="370" alt="Captura de tela 2026-11-02 220706" src="https://github.com/user-attachments/assets/f83672f2-af54-480c-8451-f11a4e15efc0" />
+
+
+
 
 ## 📚 Aprendizados
 
@@ -57,4 +60,4 @@
 
 Rihan Prado
 
-[Link do seu GitHub]
+https://github.com/ryanprado2109-alt
